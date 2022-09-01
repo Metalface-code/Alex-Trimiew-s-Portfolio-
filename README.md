@@ -24,6 +24,11 @@ in the Sales Predictions Final Evaluations Dataset
   
   The data itself had alot of values that had to be reomoved for linear regression to work due to them being irrelavant to the goal of finding sales numbers and what manipulates them. I would recomend making a new collection of data with categories that specifically meet the needs of looking for what drives sales and keeping out any data that is irrelavant to this that would make it more difficult for the machine learning models to predict what we are looking for 
   
+  ![image](https://user-images.githubusercontent.com/105470937/187822110-70210a54-8409-46ea-9bb2-dccf1c72e9b2.png)
+
+as shown in this chart the categories I had to remove in the test data do not correlate well with trying to predict sales data
+
+  
   ## For any additional questions please contact email
   
   codepurple88@outlook.com
