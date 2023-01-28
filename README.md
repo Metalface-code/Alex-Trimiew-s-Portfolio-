@@ -2,13 +2,17 @@
 
 ### By Alexander Trimiew
 
-## The Issue we are tackling in this Data is to identify the trends in sales due to a number of different factors 
-## in the Sales Predictions Final Evaluations Dataset 
-
-### The Data 
+# The Data 
  https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
  
-## The goal of this is to help the retailer understand the sales trends of products and outlets that play crucial roles in predicting sales.
+# The goal of this is to help the retailer understand the sales trends of products and outlets that play crucial roles in predicting sales.
+
+## We can explore the diference in sales in outlets as opposed to regular retail markets to see what tends to draw in more revenue. 
+
+![image](https://user-images.githubusercontent.com/105470937/215296438-59b274b8-0bbb-402e-ae05-e13203235793.png)
+
+![image](https://user-images.githubusercontent.com/105470937/215296442-07925b70-1c9e-4c65-be4c-ec4d60d78110.png)
+
   
   
   # Recomendations 
@@ -17,7 +21,7 @@
   
  
   
-  ![image](https://user-images.githubusercontent.com/105470937/187822110-70210a54-8409-46ea-9bb2-dccf1c72e9b2.png)
+
 
 
 
