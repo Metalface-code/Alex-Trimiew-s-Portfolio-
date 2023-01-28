@@ -1,32 +1,25 @@
-# Sales Predictions Data 
+#  A sales prediction for food items sold at various stores.
 
-## Grocery stores and the properties of products and outlets that play crucial roles in predicting sales.
+### By Alexander Trimiew
 
-#### By Alexander Trimiew
-
-The Issue we are tackling in this Data is to identify the trends in sales due to a number of different factors 
-in the Sales Predictions Final Evaluations Dataset 
+## The Issue we are tackling in this Data is to identify the trends in sales due to a number of different factors 
+## in the Sales Predictions Final Evaluations Dataset 
 
 ### The Data 
  https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
  
- The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
+## The goal of this is to help the retailer understand the sales trends of products and outlets that play crucial roles in predicting sales.
+  
+  
+  # Recomendations 
  
- # Model 
-  
-  The models that wer used in the final dataset were The model was evaluated usuing Linear Reggression and a simple simple regression tree model. 
-  
-  # Recomendation 
  
- I would implement the decision tree model becuase the testing seemed to have less overfitting values and made for a better model for predicting the item sales
   
-  # Limitations and recomended steps moving forward
-  
-  The data itself had alot of values that had to be reomoved for linear regression to work due to them being irrelavant to the goal of finding sales numbers and what manipulates them. I would recomend making a new collection of data with categories that specifically meet the needs of looking for what drives sales and keeping out any data that is irrelavant to this that would make it more difficult for the machine learning models to predict what we are looking for 
+ 
   
   ![image](https://user-images.githubusercontent.com/105470937/187822110-70210a54-8409-46ea-9bb2-dccf1c72e9b2.png)
 
-as shown in this chart the categories I had to remove in the test data do not correlate well with trying to predict sales data
+
 
   
   ## For any additional questions please contact email
