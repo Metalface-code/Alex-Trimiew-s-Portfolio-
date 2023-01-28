@@ -8,7 +8,7 @@ The Issue we are tackling in this Data is to identify the trends in sales due to
 in the Sales Predictions Final Evaluations Dataset 
 
 ### The Data 
- https://github.com/Metalface-code/Alex-Trimiew-s-Portfolio-/blob/a8a274e31afa1405d96bf22204bb1e0e411f34c2/sales_predictions_csv.ipynb
+ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
  
  The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
  
