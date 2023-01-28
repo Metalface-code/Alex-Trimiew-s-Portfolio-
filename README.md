@@ -9,9 +9,10 @@
 
 ## We can explore the diference in sales in outlets as opposed to regular retail markets to see what tends to draw in more revenue. 
 
-![image](https://user-images.githubusercontent.com/105470937/215296438-59b274b8-0bbb-402e-ae05-e13203235793.png)
+![image](https://user-images.githubusercontent.com/105470937/215296489-1b0d3044-98bd-4659-94ca-16b4ea1ab8cb.png)
 
-![image](https://user-images.githubusercontent.com/105470937/215296442-07925b70-1c9e-4c65-be4c-ec4d60d78110.png)
+
+
 
   
   
