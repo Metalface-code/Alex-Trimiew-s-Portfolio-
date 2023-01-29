@@ -15,18 +15,12 @@
 
 ![image](https://user-images.githubusercontent.com/105470937/215296850-6bc9ebd9-9f79-4f36-8ec9-97d4ed0a679d.png)
 
+![image](https://user-images.githubusercontent.com/105470937/215298660-4ada4006-83ee-4888-94b3-6b748cb4a0d1.png)
 
 
-  # Recomendations 
+# Recomendations 
+ According to the data it would be better for the busness to invest less in seafoods and meats due to low demand. I believe the next natural step in our study could be conducted on the dietary practices and lifestyles of the consumers to see if there is I high demand for vegan friendly products or more eco friendly products. 
  
- 
-  
- 
-  
-
-
-
-
   
   ## For any additional questions please contact email
   
